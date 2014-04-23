@@ -28,7 +28,6 @@ install gpg || true
 install docker || true
 install boot2docker || true
 
-
 # for cask
 tap phinze/homebrew-cask 
 install brew-cask || true
@@ -49,4 +48,8 @@ cask install remote-desktop-connection || true
 cask install gitx || true
 cask install unity || true
 cask install coda || true
+cask install skype || true
+cask install slack || true
+cask install dropbox || true
+cask install evernote || true
 
