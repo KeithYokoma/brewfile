@@ -27,6 +27,8 @@ install htop-osx || true
 install gpg || true
 install docker || true
 install boot2docker || true
+install jad || true
+install dex2jar || true
 
 # for cask
 tap phinze/homebrew-cask 
