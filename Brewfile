@@ -17,6 +17,8 @@ install maven || true
 install gradle || true
 #install android-platform-tools || true
 install android-sdk || true
+install android-ndk || true
+install automake || true
 install tree || true
 install ag || true
 install python || true
@@ -29,6 +31,9 @@ install docker || true
 install boot2docker || true
 install jad || true
 install dex2jar || true
+install scala || true
+install mysql || true
+install sbt || true
 
 # for cask
 tap phinze/homebrew-cask 
