@@ -11,10 +11,12 @@ install vim || true
 install openssl || true
 install git || true
 install bash-completion || true
+install gibo || true
 install hub || true
 install ruby || true
 install maven || true
 install gradle || true
+install ant || true
 #install android-platform-tools || true
 install android-sdk || true
 install android-ndk || true
@@ -34,6 +36,7 @@ install dex2jar || true
 install scala || true
 install mysql || true
 install sbt || true
+install watchman || true
 
 # for cask
 tap phinze/homebrew-cask 
